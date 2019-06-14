@@ -34,6 +34,14 @@ O quarto e último critério é o atendimento. O usuário deve avaliar o atendim
 
 ![](figuras/avaliacao.PNG)
 
+O último passo é apertar no botão "Cadastrar".
+
+### Visualizando a ExperiÊncia Gatronômica
+
+Após cadastrar, a experiência será exibida em uma tabela, que terá 4 colunas: Tipo; Restaurante; Prato e Nota. 
+
+![](figuras/cadastrado.PNG)
+
 
 
 
