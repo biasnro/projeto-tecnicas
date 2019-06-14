@@ -12,17 +12,19 @@ A segunda tela contém algumas estatísticas das experiências vividas e cadastr
 
 ![](figuras/pagina_estatisticas.PNG)
 
+
+
 # Manual de Utilização
 
 ### O FoodTech possui uma interface simples e fácil de usar, para oferecer a melhor experiência ao usuário. Confira aqui todos os detalhes de como utilizar:
 
 ### Cadastrando uma nova Experiência Gastronômica
 
-Vamos começar cadastrando uma nova experiência. Para isso precisamos: escrever o nome do Restaurante e do Prato e escolher o Tipo de culinária: 
+Vamos começar cadastrando uma nova experiência. Para isso o usuário precisa: escrever o nome do Restaurante e do Prato e escolher o Tipo de culinária: 
 
 ![](figuras/dados.PNG)
 
-Após isso, seguimos para a parte do cadastro das avaliações. Para isso precisamos entender quais são os critérios de avaliação e como atribuimos as notas. 
+Após isso, seguimos para a parte do cadastro das avaliações. Para isso o usuário precisa entender quais são os critérios de avaliação e como atribuir as notas. 
 
 O primeiro critério é a comida. O usuário deve avaliar a comida em termos de sabor e apresentação atribuindo a ela uma valor de 0 a 100.
 
@@ -98,11 +100,36 @@ Além de substituido, quando o usuário for checar as estatísticas e clicar em 
 
 ![](figuras/estatisticas_atualizada.PNG)
 
+### Salvando a Tabela
+
+Se o usuário deseja salvar as experiências, basta abrir a aba "Arquivo" no canto supeior esquerdo e clicar em "Salvar":
+
+![](figuras/salvar.PNG)
+
+Após isso, basta escolher a pasta onde quer salvar e escrever um nome para o arquivo:
+
+![](figuras/salvar1.PNG)
+
 ### Limpando a Tabela
 
 Para limpar a tabela e começar a cadastrar novas experiências, basta clicar no botão "Limpar" e a tabela ficará em branco novamente.
 
 ![](figuras/pagina_inicial.PNG)
+
+### Abrindo uma Tabela
+
+Se o usuário deseja abrir uma tabela já existente, basta abrir a aba "Arquivo" no canto supeior esquerdo e clicar em "Abrir Arquivo":
+
+![](figuras/abrir.PNG)
+
+Após isso, basta escolher o arquivo que deseja abrir.
+
+
+# Agora é só começar a usar! 
+
+
+
+
 
 
 
