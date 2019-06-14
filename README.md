@@ -8,4 +8,4 @@ A página inicial do FoodTech é dividida em três partes: a primeira é a parte
 
 ![](figuras/pag_inicial.PNG)
 
-ytgtygygty
+
