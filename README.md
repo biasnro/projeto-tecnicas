@@ -36,11 +36,78 @@ O quarto e último critério é o atendimento. O usuário deve avaliar o atendim
 
 O último passo é apertar no botão "Cadastrar".
 
-### Visualizando a ExperiÊncia Gatronômica
+### Visualizando a Experiência Gatronômica
 
 Após cadastrar, a experiência será exibida em uma tabela, que terá 4 colunas: Tipo; Restaurante; Prato e Nota. 
 
 ![](figuras/cadastrado.PNG)
+
+A nota obtida pelo restaurante é uma média ponderada envolvento as quatro avaliações. Essa média é obtida de acordo com o peso das avaliações, que são: 
+
+Comida: peso 4
+Preço: peso 2
+Ambiente: peso 2
+Atendimento: peso 2
+
+Todos esses critérios são fundamentais para determinar se a experiência foi agradável ou desagradável.
+
+### Ordenando as experiências
+
+Após o usuário inserir suas experiências, as linhas da tabela estarão ordenadas de acordo com a ordem de cadastro:
+
+![](figuras/tabela_cheia.PNG)
+
+O usuário pode ordenar as experiências por três critérios:
+
+1. Ordenando por Nome
+Ao clicar no botão "Ordenar por Nome", as linhas da tabela serão ordenadas pelo nome do restaurante (ordem alfabética):
+
+![](figuras/ordenar_nome.PNG)
+
+2. Ordenando por Tipo
+Ao clicar no botão "Ordenar por Tipo", as linhas da tabela serão ordenadas pelo tipo de culinária (ordem alfabética):
+
+![](figuras/ordenar_tipo.PNG)
+
+3. Ordenando por Nota
+Ao clicar no botão "Ordenar por Nota", as linhas da tabela serão ordenadas pela nota final (ordem decrescente):
+
+![](figuras/ordenar_nota.PNG)
+
+### Checando as Estatísticas
+
+Para ter acesso às estatísticas, o usuário deve ir até a segunda aba e clicar no botão "Atualizar Estatísticas":
+
+![](figuras/pagina_estatisticas.PNG)
+
+Após clicar no botão, o usuário terá acesso à melhor e à pior experiência. Sendo a melhor, a experiência que obteve maior nota; e a pior, a experiência que obteve a pior nota:
+
+![](figuras/estatisticas.PNG)
+
+### Editando um item da Tabela
+
+Se o usuário quer editar um item da tabela, basta clicar duas vezes sobre o item que deseja editar:
+
+![](figuras/editar.PNG)
+
+Após clicar em "OK" o item será substituido:
+
+![](figuras/editado.PNG)
+
+Além de substituido, quando o usuário for checar as estatísticas e clicar em "Atualizar Estatísticas", o item estará substituído também:
+
+![](figuras/estatisticas_atualizada.PNG)
+
+### Limpando a Tabela
+
+Para limpar a tabela e começar a cadastrar novas experiências, basta clicar no botão "Limpar" e a tabela ficará em branco novamente.
+
+![](figuras/pagina_inicial.PNG)
+
+
+
+
+
 
 
 
