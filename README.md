@@ -14,6 +14,7 @@ A segunda tela contém algumas estatísticas das experiências vividas e cadastr
 
 
 
+
 # Manual de Utilização
 
 ### O FoodTech possui uma interface simples e fácil de usar, para oferecer a melhor experiência ao usuário. Confira aqui todos os detalhes de como utilizar:
@@ -37,6 +38,8 @@ O quarto e último critério é o atendimento. O usuário deve avaliar o atendim
 ![](figuras/avaliacao.PNG)
 
 O último passo é apertar no botão "Cadastrar".
+
+
 
 ### Visualizando a Experiência Gatronômica
 
@@ -120,10 +123,9 @@ Para limpar a tabela e começar a cadastrar novas experiências, basta clicar no
 
 Se o usuário deseja abrir uma tabela já existente, basta abrir a aba "Arquivo" no canto supeior esquerdo e clicar em "Abrir Arquivo":
 
-![](figuras/abrir.PNG)
+[](figuras/abrir.PNG)
 
 Após isso, basta escolher o arquivo que deseja abrir.
-
 
 # Agora é só começar a usar! 
 
