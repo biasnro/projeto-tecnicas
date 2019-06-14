@@ -22,6 +22,19 @@ Vamos começar cadastrando uma nova experiência. Para isso precisamos: escrever
 
 ![](figuras/dados.PNG)
 
+Após isso, seguimos para a parte do cadastro das avaliações. Para isso precisamos entender quais são os critérios de avaliação e como atribuimos as notas. 
+
+O primeiro critério é a comida. O usuário deve avaliar a comida em termos de sabor e apresentação atribuindo a ela uma valor de 0 a 100.
+
+O segundo critério é o preço. O usuário deve inserir um valor de 0 a 100 que reflita o quanto ele ficou satisfeito com o preço da comida sendo 0 -> muito insatisfeito e 100 -> muito satisfeito.
+
+O terceiro critério é o ambiente. O usuário deve avaliar o ambiente seguindo a mesma linha de raciocínio da avaliação anterior, sendo 0 -> muito insatisfeito e 100 -> muito satisfeito.
+
+O quarto e último critério é o atendimento. O usuário deve avaliar o atendimento seguindo a mesma linha de raciocínio da avaliação anterior, sendo 0 -> muito insatisfeito e 100 -> muito satisfeito.
+
+![](figuras/avaliacao.PNG)
+
+
 
 
 
